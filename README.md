@@ -33,13 +33,13 @@ https://drive.google.com/file/d/1B15jmpdjbmmytVdvIbVS_FfitkYnz6iO/view?usp=shari
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/abhigupta3985/BestBuy-clone-frontend.git
 
 # Navigate to the project folder
-cd my-app
+cd BestBuy-clone-frontend
 
 # Open index.html in the browser
-
+```
 
 ## Screenshots
 1.] ![Screenshot 2025-03-24 123252](https://github.com/user-attachments/assets/f09bd30d-8ecf-4e4a-9d98-0a8ec13143e2)
