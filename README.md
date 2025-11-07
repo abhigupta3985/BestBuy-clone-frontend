@@ -1,5 +1,4 @@
-# B43_WEB_005_Responsive-Rebels
-B43_Construct Week Project bestbuy.com
+# BestBuy-clone-frontend
 
 ## Introduction
 Welcome to Best Buy Clone, a project aimed at replicating the core design and functionality of the Best Buy e-commerce platform. This project is part of Masai School's Construct Week, focusing on HTML, CSS, and JavaScript to build a visually appealing and interactive shopping website.
