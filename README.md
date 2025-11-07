@@ -29,9 +29,11 @@ my-app/
 https://drive.google.com/file/d/1B15jmpdjbmmytVdvIbVS_FfitkYnz6iO/view?usp=sharing
 
 
-## Installation & Getting started
+## Installation & Getting Started
+
+```bash
 # Clone the repository
-git clone <repository-url>
+git clone 
 
 # Navigate to the project folder
 cd my-app
